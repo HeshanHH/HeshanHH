@@ -17,11 +17,13 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools: 👇 Some Free Courses
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 
 <br />
 <br />
@@ -57,3 +59,5 @@
 [webdevplaylist]: https://youtube.com/playlist?list=PLWKjhJtqVAblStefaz_YOVpDWqcRScc2s/
 [reactplaylist]: https://www.youtube.com/watch?v=4UZrsTqkcW4
 [nodejs]: https://www.youtube.com/watch?v=Oe421EPjeBE
+[sql]: https://www.youtube.com/watch?v=HXV3zeQKqGY
+[mongodb]: https://www.youtube.com/watch?v=CyTWPr_WwdI
